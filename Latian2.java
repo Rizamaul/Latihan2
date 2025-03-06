@@ -29,7 +29,7 @@ public class ProgramJava {
         System.out.println("Apakah usia lebih dari 18? " + lebihDari18);
 
         boolean usiaLebihDari18DanTinggiLebihDari160 = (usia > 18) && (tinggiBadan > 160);
-        System.out.println("Apakah usia lebih dari 18 dan tinggi lebih dari 160 cm? " + usiaLebihDari18DanTinggiLebihDari160);
+        System.out.println("Apakahtinggi lebih dari 160 cm? " + usiaLebihDari18DanTinggiLebihDari160);
 
         double usiaDouble = (double) usia;
         int tinggiInt = (int) tinggiBadan;
