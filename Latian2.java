@@ -22,7 +22,7 @@ public class ProgramJava {
         System.out.println("Usia: " + usia);
         System.out.println("Tinggi Bada: " + tinggiBadan + " cm");
 
-        double hasilAritmatika = (usia * 2) + 10.0 / 5 - 3;
+        double hasilAritmatika = (usia * 2) + 10 / 5 - 3;
         System.out.println("\nHasil perhitungan aritmatika: " + hasilAritmatika);
 
         boolean lebihDari18 = usia > 18;
